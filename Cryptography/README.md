@@ -16,6 +16,9 @@
 		* [Textbooks](#textbooks)
 	* [Physically unclonable functions](#physically-unclonable-functions)
 	* [Oblivious Transfer](#oblivious-transfer)
+		* [Combiners](#combiners)
+		* [Extractors](#extractors)
+	* [Leakage Resistant Secret Sharing](#leakage-resistant-secret-sharing)
 	* [Secure multiparty computation](#secure-multiparty-computation)
 		* [Textbooks](#textbooks)
 		* [Tutorials](#tutorials)
@@ -101,7 +104,7 @@ A book about Elliptic and Hyperelliptic Cryptosystems. Includes ECDSA
 - [Secure Computation based on Leaky Correlations: High Resilience Setting](https://www.cs.purdue.edu/homes/hmaji/papers/C:BloMajNgu17.pdf) 
 - [Secure Computation using Leaky Correlations (Asymptotically Optimal Constructions)](https://eprint.iacr.org/2018/372.pdf) 
 
-#### Leakage Resistant Secret Sharing
+### Leakage Resistant Secret Sharing
 - [Leakage-resilience of the Shamir Secret-sharing Scheme against Physical-bit Leakages](https://eprint.iacr.org/2021/186.pdf)
 - [Leakage Resilient Secret Sharing and Applications](https://eprint.iacr.org/2018/1154.pdf)
 - [On the Local Leakage Resilience of Linear Secret Sharing Schemes](https://eprint.iacr.org/2019/653.pdf) 
