@@ -5,18 +5,18 @@
 
 * [Core Textbooks](#core-textbooks)
 * [Text Tutorials](#text-tutorials)
-	* [PETs](#pets)
-	* [Crypto tools](#text-tutorials-crypto-tools)
-	* [Simulation proof](#text-tutorials-simulation-proof)
+	* [Privacy Enhancing Technologies](#privacy-enhancing-technologies)
+	* [Crypto tools](#crypto-tools)
+	* [Simulation proof](#simulation-proof)
 * [Post-quantum](#post-quantum)
-	* [Textbooks](#post-quantum-textbooks)
-	* [Review Articles](#post-quantum-review-articles)
+	* [Textbooks](#textbooks)
+	* [Review Articles](#review-articles)
 * [Advanced topics](#advanced-topics)
-	* [Elliptic Curves](#advanced-topics-elliptic-curves)
-		* [Textbooks](#advanced-topics-elliptic-curves-textbooks)
-	* [Physically unclonable functions](#advanced-topics-pufs)
-	* [Oblivious Transfer](#advanced-topics-ot)
-	* [Secure multiparty computation](#advanced-topics-smc)
+	* [Elliptic Curves](#elliptic-curves)
+		* [Textbooks](#textbooks)
+	* [Physically unclonable functions](#physically-unclonable-functions)
+	* [Oblivious Transfer](#oblivious-transfer)
+	* [Secure multiparty computation](#secure-multiparty-computation)
 ## Core Textbooks
 
 - Cryptography: Theory and practice, Douglas R. Stinson. 
@@ -34,7 +34,7 @@ Digital Signatures and MAC, Two party protocols, NIZKs
 
 ## Text Tutorials
 
-### PETs
+### Privacy Enhancing Technologies
 
 - Garbled Circuits as Randomized Encodings of Functions: a Primer, Applebaum
 - Homomorphic Encryption, Halevi
