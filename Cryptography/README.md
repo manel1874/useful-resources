@@ -5,7 +5,7 @@
 
 * [Core Textbooks](#core-textbooks)
 * [Text Tutorials](#text-tutorials)
-	* [PETs](#text-tutorials-pets)
+	* [PETs](#pets)
 	* [Crypto tools](#text-tutorials-crypto-tools)
 	* [Simulation proof](#text-tutorials-simulation-proof)
 * [Post-quantum](#post-quantum)
