@@ -91,6 +91,25 @@ A book about Elliptic and Hyperelliptic Cryptosystems. Includes ECDSA
 - The Simplest Protocol for Oblivious Transfer, Chou, Orlandi
 - Extending Oblivious Transfer Efficiently, Ishai, Kilian, Nissim, Petrank
 
+#### Combiners:
+- [Error-Tolerant Combiners for Oblivious Primitives](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38321.pdf)
+- [Efficiently from Semi-honest to Malicious OT via OLFE](https://eprint.iacr.org/2009/428.pdf)
+
+#### Extractors:
+- [Extracting Correlations](https://web.cs.ucla.edu/~rafail/PUBLIC/103.pdf)
+- [Secure Computation from Leaky Correlated Randomness](https://www.cs.purdue.edu/homes/hmaji/papers/GuptaIsMaSa14.pdf)
+- [Secure Computation based on Leaky Correlations: High Resilience Setting](https://www.cs.purdue.edu/homes/hmaji/papers/C:BloMajNgu17.pdf) 
+- [Secure Computation using Leaky Correlations (Asymptotically Optimal Constructions)](https://eprint.iacr.org/2018/372.pdf) 
+
+Leakage Resistant Secret Sharing
+- [Leakage-resilience of the Shamir Secret-sharing Scheme against Physical-bit Leakages](https://eprint.iacr.org/2021/186.pdf)
+- [Leakage Resilient Secret Sharing and Applications](https://eprint.iacr.org/2018/1154.pdf)
+- [On the Local Leakage Resilience of Linear Secret Sharing Schemes](https://eprint.iacr.org/2019/653.pdf) 
+- [Bounded Collusion Protocols, Cylinder-Intersection Extractors and Leakage-Resilient Secret Sharing](https://eprint.iacr.org/2020/473.pdf)
+- [Leakage-Resilient Secret Sharing in Non-Compartmentalized Models](https://drops.dagstuhl.de/opus/volltexte/2020/12112/pdf/LIPIcs-ITC-2020-7.pdf)
+- [Continuously Non-Malleable Secret Sharing for General Access Structures](https://eprint.iacr.org/2019/602.pdf)
+- [The Mother of All Leakages: How to Simulate Noisy Leakages via Bounded Leakage (Almost) for Free](https://eprint.iacr.org/2020/1246.pdf) 
+
 
 ### Secure multiparty computation
 
