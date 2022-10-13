@@ -130,8 +130,8 @@ Interesting element: An explicit quantum attack against a classically-secure ZK 
 - Secure voting 
 
 - Biometric data:
--- Efficient Privacy-Preserving Biometric Identification
--- Privacy-Preserving Fingercode Authentication
+  - Efficient Privacy-Preserving Biometric Identification
+  - Privacy-Preserving Fingercode Authentication
 
 - Private Set Intersection:
 >- Efficient Private Matching and Set Intersection
