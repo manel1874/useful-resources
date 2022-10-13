@@ -123,79 +123,49 @@ Interesting element: An explicit quantum attack against a classically-secure ZK 
 
 #### Applications
 
-## Functions examples:
-1. Millionaires Problem
-2. Secure auctions. Use bid privacy and bid non-malleability
-3. Secure voting 
-4. Biometric data:
->- Efficient Privacy-Preserving Biometric Identification
->- Privacy-Preserving Fingercode Authentication
-4. Private Set Intersection:
+- Millionaires Problem
+
+- Secure auctions. Use bid privacy and bid non-malleability
+
+- Secure voting 
+
+- Biometric data:
+-- Efficient Privacy-Preserving Biometric Identification
+-- Privacy-Preserving Fingercode Authentication
+
+- Private Set Intersection:
 >- Efficient Private Matching and Set Intersection
 >- Faster Private Set Intersection based on OT Extension
 >- Private Set Intersection: Are Garbled Circuits Better than Custom Protocols?
-5. Secure machine Learning:
+- Secure machine Learning:
 
-ID3 Algorithm
+- ID3 Algorithm
 >- Privacy Preserving Data Mining by Lindell&Pinkas ID3 Decision Tree Algo
 >- Privacy-Preserving Collaborative Prediction using Random Forests
 >- Privacy-Preserving Decision Trees over Vertically Partitioned Data
 
-k-Nearest
+- k-Nearest
 >- Efficient Privacy-Preserving k-Nearest Neighbor Search
 >- Privacy Preserving K-nearest Neighbor Classification
 >- Private Nearest Neighbors Classification in Federated Databases
 
-Neural Networks:
+- Neural Networks:
 >- Garbled Neural Networks are Practical
 >- QUOTIENT: Two-Party Secure Neural Network Training and Prediction
 
-Regression:
+- Regression:
 >- Privacy-Preserving Ridge Regression on Hundreds of Millions of Records
 >- Privacy preserving linear regression modelling of distributed databases
 >- Scalability of Privacy-Preserving Linear Regression in Epidemiological Studies
 >- Privacy-Preserving Distributed Linear Regression on High-Dimensional Data
 
-Association Rules:
+- Association Rules:
 >- Application of Distributed Oblivious Transfer Protocol in Association Rule Mining
-
-- Allow a pre-training: MiniONN
-- Training phase: groups of parties to train a model obliviously
-
-
-6. Collision of moving objects
->-  Privacy-preserving collision detection of moving objects
-
-## Papers:
-
-Decision Trees and ID3 Algorithm:
-
-- Privacy Preserving Data Mining
-- Privacy-Preserving Collaborative Prediction using Random Forests
-- Privacy-Preserving Decision Trees over Vertically Partitioned Data
-
-k-Nearest Neighbour
-
-- Efficient Privacy-Preserving k-Nearest Neighbor Search
-- Privacy Preserving K-nearest Neighbor Classification
-- Private Nearest Neighbors Classification in Federated Databases
-
-Neural Networks:
-
-- Garbled Neural Networks are Practical
-- QUOTIENT: Two-Party Secure Neural Network Training and Prediction
-
-Linear/Ridge Regression:
-
-- Privacy-Preserving Ridge Regression on Hundreds of Millions of Records
-- Privacy preserving linear regression modelling of distributed databases
-- Scalability of Privacy-Preserving Linear Regression in Epidemiological Studies
-- Privacy-Preserving Distributed Linear Regression on High-Dimensional Data
-
-Association Rules:
-
-- Application of Distributed Oblivious Transfer Protocol in Association Rule Mining
 - Privacy-preserving distributed mining of association rules using Elliptic-curve cryptosystem and Shamir?s secret sharing scheme
+
+
+- Collision of moving objects
+>-  Privacy-preserving collision detection of moving objects
 
 
 
