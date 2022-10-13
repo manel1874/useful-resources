@@ -17,6 +17,14 @@
 	* [Physically unclonable functions](#physically-unclonable-functions)
 	* [Oblivious Transfer](#oblivious-transfer)
 	* [Secure multiparty computation](#secure-multiparty-computation)
+		* [Textbooks](#textbooks)
+		* [Tutorials](#tutorials)
+		* [Implementations](#implementations)
+		* [2PC protocols](#2pc-protocols)
+		* [Post-quantum security](#post-quantum-security)
+		* [Secure quantum multiparty computation](#secure-quantum-multiparty-computation)
+		* [Applications](#applications)
+		* [Blockchain hybrid model](#blockchain-hybrid-model)
 	* [Homomorphic encryption](#homomorphic-encryption)
 ## Core Textbooks
 
@@ -134,40 +142,45 @@ Interesting element: An explicit quantum attack against a classically-secure ZK 
   - Privacy-Preserving Fingercode Authentication
 
 - Private Set Intersection:
->- Efficient Private Matching and Set Intersection
->- Faster Private Set Intersection based on OT Extension
->- Private Set Intersection: Are Garbled Circuits Better than Custom Protocols?
-- Secure machine Learning:
+  - Efficient Private Matching and Set Intersection
+  - Faster Private Set Intersection based on OT Extension
+  - Private Set Intersection: Are Garbled Circuits Better than Custom Protocols?
 
 - ID3 Algorithm
->- Privacy Preserving Data Mining by Lindell&Pinkas ID3 Decision Tree Algo
->- Privacy-Preserving Collaborative Prediction using Random Forests
->- Privacy-Preserving Decision Trees over Vertically Partitioned Data
+  - Privacy Preserving Data Mining by Lindell&Pinkas ID3 Decision Tree Algo
+  - Privacy-Preserving Collaborative Prediction using Random Forests
+  - Privacy-Preserving Decision Trees over Vertically Partitioned Data
 
 - k-Nearest
->- Efficient Privacy-Preserving k-Nearest Neighbor Search
->- Privacy Preserving K-nearest Neighbor Classification
->- Private Nearest Neighbors Classification in Federated Databases
+  - Efficient Privacy-Preserving k-Nearest Neighbor Search
+  - Privacy Preserving K-nearest Neighbor Classification
+  - Private Nearest Neighbors Classification in Federated Databases
 
 - Neural Networks:
->- Garbled Neural Networks are Practical
->- QUOTIENT: Two-Party Secure Neural Network Training and Prediction
+  - Garbled Neural Networks are Practical
+  - QUOTIENT: Two-Party Secure Neural Network Training and Prediction
 
 - Regression:
->- Privacy-Preserving Ridge Regression on Hundreds of Millions of Records
->- Privacy preserving linear regression modelling of distributed databases
->- Scalability of Privacy-Preserving Linear Regression in Epidemiological Studies
->- Privacy-Preserving Distributed Linear Regression on High-Dimensional Data
+  - Privacy-Preserving Ridge Regression on Hundreds of Millions of Records
+  - Privacy preserving linear regression modelling of distributed databases
+  - Scalability of Privacy-Preserving Linear Regression in Epidemiological Studies
+  - Privacy-Preserving Distributed Linear Regression on High-Dimensional Data
 
 - Association Rules:
->- Application of Distributed Oblivious Transfer Protocol in Association Rule Mining
-- Privacy-preserving distributed mining of association rules using Elliptic-curve cryptosystem and Shamir?s secret sharing scheme
-
+  - Application of Distributed Oblivious Transfer Protocol in Association Rule Mining
+  - Privacy-preserving distributed mining of association rules using Elliptic-curve cryptosystem and Shamir?s secret sharing scheme
 
 - Collision of moving objects
->-  Privacy-preserving collision detection of moving objects
+  -  Privacy-preserving collision detection of moving objects
 
+#### Blockchain hybrid model
 
+Main researcher: [Vipul Goyal](https://dblp.org/pid/38/303.html)
+
+- [Blockchains Enable Non-Interactive MPC](https://eprint.iacr.org/2021/1233.pdf)
+- [Founding Secure Computation on Blockchains](https://link.springer.com/chapter/10.1007/978-3-030-17656-3_13)
+
+Implementations: [Nillion](https://apply.workable.com/nillion/)
 
 ### Homomorphic Encryption
 
