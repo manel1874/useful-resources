@@ -99,6 +99,13 @@ A book about Elliptic and Hyperelliptic Cryptosystems. Includes ECDSA
 
 - [Awesome MPC frameworks](https://github.com/rdragos/awesome-mpc/blob/master/readme.md)
 
+#### 2PC protocols
+
+- [Authenticated Garbling and Efficient Maliciously Secure Two-Party Computation](https://eprint.iacr.org/2017/030.pdf)
+
+Evaluates AES circuit with malicious security in 37 ms with an online time of just 1 ms
+
+
 #### Post-quantum security
 
 - [Post-Quantum Multi-Party Computations](https://arxiv.org/pdf/2005.12904.pdf), Agarwal, et al. 
@@ -114,6 +121,82 @@ Interesting element: An explicit quantum attack against a classically-secure ZK 
 
 - [Quantum Garbled Circuits](https://arxiv.org/pdf/2006.01085.pdf), Brakerski, Yuen, 2020
 
+#### Applications
+
+## Functions examples:
+1. Millionaires Problem
+2. Secure auctions. Use bid privacy and bid non-malleability
+3. Secure voting 
+4. Biometric data:
+>- Efficient Privacy-Preserving Biometric Identification
+>- Privacy-Preserving Fingercode Authentication
+4. Private Set Intersection:
+>- Efficient Private Matching and Set Intersection
+>- Faster Private Set Intersection based on OT Extension
+>- Private Set Intersection: Are Garbled Circuits Better than Custom Protocols?
+5. Secure machine Learning:
+
+ID3 Algorithm
+>- Privacy Preserving Data Mining by Lindell&Pinkas ID3 Decision Tree Algo
+>- Privacy-Preserving Collaborative Prediction using Random Forests
+>- Privacy-Preserving Decision Trees over Vertically Partitioned Data
+
+k-Nearest
+>- Efficient Privacy-Preserving k-Nearest Neighbor Search
+>- Privacy Preserving K-nearest Neighbor Classification
+>- Private Nearest Neighbors Classification in Federated Databases
+
+Neural Networks:
+>- Garbled Neural Networks are Practical
+>- QUOTIENT: Two-Party Secure Neural Network Training and Prediction
+
+Regression:
+>- Privacy-Preserving Ridge Regression on Hundreds of Millions of Records
+>- Privacy preserving linear regression modelling of distributed databases
+>- Scalability of Privacy-Preserving Linear Regression in Epidemiological Studies
+>- Privacy-Preserving Distributed Linear Regression on High-Dimensional Data
+
+Association Rules:
+>- Application of Distributed Oblivious Transfer Protocol in Association Rule Mining
+
+- Allow a pre-training: MiniONN
+- Training phase: groups of parties to train a model obliviously
+
+
+6. Collision of moving objects
+>-  Privacy-preserving collision detection of moving objects
+
+## Papers:
+
+Decision Trees and ID3 Algorithm:
+
+- Privacy Preserving Data Mining
+- Privacy-Preserving Collaborative Prediction using Random Forests
+- Privacy-Preserving Decision Trees over Vertically Partitioned Data
+
+k-Nearest Neighbour
+
+- Efficient Privacy-Preserving k-Nearest Neighbor Search
+- Privacy Preserving K-nearest Neighbor Classification
+- Private Nearest Neighbors Classification in Federated Databases
+
+Neural Networks:
+
+- Garbled Neural Networks are Practical
+- QUOTIENT: Two-Party Secure Neural Network Training and Prediction
+
+Linear/Ridge Regression:
+
+- Privacy-Preserving Ridge Regression on Hundreds of Millions of Records
+- Privacy preserving linear regression modelling of distributed databases
+- Scalability of Privacy-Preserving Linear Regression in Epidemiological Studies
+- Privacy-Preserving Distributed Linear Regression on High-Dimensional Data
+
+Association Rules:
+
+- Application of Distributed Oblivious Transfer Protocol in Association Rule Mining
+- Privacy-preserving distributed mining of association rules using Elliptic-curve cryptosystem and Shamir?s secret sharing scheme
+
 
 
 ### Homomorphic Encryption
@@ -126,15 +209,15 @@ Interesting element: An explicit quantum attack against a classically-secure ZK 
 #### Overview papers
 
 - [Fully homomorphic encryption for mathematicians](https://eprint.iacr.org/2013/250.pdf), Silverberg. About [Craig Gentry](https://crypto.stanford.edu/craig/craig-thesis.pdf) approach. Inefficient in practice but with a conceptual breakthrough.
-- https://eprint.iacr.org/2015/1192.pdf
+- [A Guide to Fully Homomorphic Encryption](https://eprint.iacr.org/2015/1192.pdf). Important table (1) describing all possible approaches along with assumption models: DLWE, PLWE, RLWE, SVP, among others.
 
 #### Lecture notes
 
 - [Shafi Goldwasser notes](https://www.cs.bu.edu/~reyzin/teaching/s11cs937/notes-shafi-1.pdf) on chapter 3.
 - https://crypto.stanford.edu/craig/craig-thesis.pdf Introduction (1.1)
 
-### Application
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5930176/ (Secure Logistic Regression Based on Homomorphic Encryption
+#### Applications
+- [Secure Logistic Regression Based on Homomorphic Encryption](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5930176/)
 
 
 
