@@ -29,6 +29,8 @@
 		* [Applications](#applications)
 		* [Blockchain hybrid model](#blockchain-hybrid-model)
 	* [Homomorphic encryption](#homomorphic-encryption)
+
+
 ## Core Textbooks
 
 - Cryptography: Theory and practice, Douglas R. Stinson. 
