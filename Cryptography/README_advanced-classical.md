@@ -162,6 +162,8 @@ Implementations: [Nillion](https://apply.workable.com/nillion/)
 - [Oblivious transfer with a memory-bounded receiver](https://ieeexplore.ieee.org/document/743500)
 - [Constant-Round Oblivious Transfer in the Bounded Storage Model](https://link.springer.com/article/10.1007/s00145-006-0438-1)
 
+>- Tools: Set encodings; Interactive Hashing
+
 ### Combiners:
 - [Error-Tolerant Combiners for Oblivious Primitives](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38321.pdf)
 - [Efficiently from Semi-honest to Malicious OT via OLFE](https://eprint.iacr.org/2009/428.pdf)
