@@ -17,6 +17,8 @@
 * [Homomorphic encryption](#homomorphic-encryption)
 * [Physically unclonable functions](#physically-unclonable-functions)
 * [Oblivious Transfer](#oblivious-transfer)
+	* [Main protocols](#main-protocols)
+	* [Bounded classical storage model](#bounded-classical-storage-model)
 	* [Combiners](#combiners)
 	* [Extractors](#extractors)
 * [Leakage Resistant Secret Sharing](#leakage-resistant-secret-sharing)
@@ -148,10 +150,17 @@ Implementations: [Nillion](https://apply.workable.com/nillion/)
 
 ## Oblivious Transfer
 
+## Main protocols
+
 - Non-interactive oblivious transfer, Bellare, Micali, 1989
 - Efficient Oblivious Transfer Protocols, Naor, Pinkas
 - The Simplest Protocol for Oblivious Transfer, Chou, Orlandi
 - Extending Oblivious Transfer Efficiently, Ishai, Kilian, Nissim, Petrank
+
+### Bounded classical storage model
+
+- [Oblivious transfer with a memory-bounded receiver](https://ieeexplore.ieee.org/document/743500)
+- [Constant-Round Oblivious Transfer in the Bounded Storage Model](https://link.springer.com/article/10.1007/s00145-006-0438-1)
 
 ### Combiners:
 - [Error-Tolerant Combiners for Oblivious Primitives](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38321.pdf)
