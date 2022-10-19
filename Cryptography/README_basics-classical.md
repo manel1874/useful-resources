@@ -17,16 +17,16 @@
 ## Core Textbooks
 
 - Cryptography: Theory and practice, Douglas R. Stinson. 
-Covers all basic crypto concepts. Block ciphers (AES), Hash functions, RSA, attacjs to RSA, PKC and DLog, DLog attacks, Signature Schemes, (P)RNG, Key Distribution, Key Agreement Schemes, PKI, Secret Sharing and Access Structures
+>- Covers all basic crypto concepts. Block ciphers (AES), Hash functions, RSA, attacjs to RSA, PKC and DLog, DLog attacks, Signature Schemes, (P)RNG, Key Distribution, Key Agreement Schemes, PKI, Secret Sharing and Access Structures
 
 - Applied Cryptography, Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone.
-Interesting chapters: Number-Theoretic Reference Problems, Hash functions and data integrity, Digital Signatures, Efficient Algorithms of basic multi-precision operations.
+>- Interesting chapters: Number-Theoretic Reference Problems, Hash functions and data integrity, Digital Signatures, Efficient Algorithms of basic multi-precision operations.
 
 - Foundations of Cryptography I, Oded Goldreich. 
-Computational complexity approach: One-way functions, Hard-Core Predicates, Zero-knowledge Proof Systems
+>- Computational complexity approach: One-way functions, Hard-Core Predicates, Zero-knowledge Proof Systems
 
 - Foundations of Cryptography II, Oded Goldreich. 
-Digital Signatures and MAC, Two party protocols, NIZKs
+>- Digital Signatures and MAC, Two party protocols, NIZKs
 
 
 ## Text Tutorials
@@ -50,7 +50,7 @@ Digital Signatures and MAC, Two party protocols, NIZKs
 
 ## MIT Lectures
 
-- [MIT 6.875 (Cryptography), Spring 2018](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
+- [6.875: Cryptography (Spring 2018)](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
 - [6.857: Computer and Network Security (Spring 2021)](http://courses.csail.mit.edu/6.857/2021/handouts)
 
 
@@ -59,7 +59,7 @@ Digital Signatures and MAC, Two party protocols, NIZKs
 ### Textbooks
 
 - Post-Quantum Cryptography, Bernstein, Buchmann, Dahmen, Springer (2008)
-Comparison to quantum cryptography, Hash-based Digital Signature Schemes, Code-based cryptography, Lattice-based Cryptography, Multivariate PKCs
+>- Comparison to quantum cryptography, Hash-based Digital Signature Schemes, Code-based cryptography, Lattice-based Cryptography, Multivariate PKCs
 
 ### Review Articles
 
