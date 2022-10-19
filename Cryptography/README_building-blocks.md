@@ -5,13 +5,13 @@
 
 * [Physically unclonable functions](#physically-unclonable-functions)
 * [Oblivious Transfer](#oblivious-transfer)
-  * [Flavours](#flavours)
-	* [Main protocols](#main-protocols)
+  	* [Flavours](#flavours)
+	* [OT protocols](#ot-protocols)
 	* [Bounded classical storage model](#bounded-classical-storage-model)
 	* [Combiners](#combiners)
 	* [Extractors](#extractors)
 * [Oblivious Linear Evaluation](#oblivious-linear-evaluation)
-  * [Flavours](#flavours)
+  	* [Flavours](#flavours)
 * [Leakage Resistant Secret Sharing](#leakage-resistant-secret-sharing)
 
 
@@ -29,18 +29,20 @@
 - OT Extension
 - Silent OT Extension
 
-### Main protocols
+### OT protocols
 
 - Non-interactive oblivious transfer, Bellare, Micali, 1989
 - Efficient Oblivious Transfer Protocols, Naor, Pinkas
 - The Simplest Protocol for Oblivious Transfer, Chou, Orlandi
 - Extending Oblivious Transfer Efficiently, Ishai, Kilian, Nissim, Petrank
 
+#### Post-quantum
+- [Two-Round Oblivious Linear Evaluation from Learning with Errors](https://eprint.iacr.org/2020/635.pdf)
+
 ### Bounded classical storage model
 
 - [Oblivious transfer with a memory-bounded receiver](https://ieeexplore.ieee.org/document/743500)
 - [Constant-Round Oblivious Transfer in the Bounded Storage Model](https://link.springer.com/article/10.1007/s00145-006-0438-1)
-
 >- Tools: Set encodings; Interactive Hashing
 
 ### Combiners:
@@ -61,6 +63,12 @@
 - Batch OLE
 - Vector OLE
 - Silent OLE 
+
+### Silent OLE
+
+Silent: after a one-time cheap interaction, two parties can store small seeds, from which they can later locally generate a large number of OLEs while remaining offline.
+
+- [Silver: Silent VOLE and Oblivious Transfer from Hardness of Decoding Structured LDPC Codes](https://eprint.iacr.org/2021/1150.pdf)
 
 
 ## Leakage Resistant Secret Sharing
