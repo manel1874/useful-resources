@@ -2,18 +2,18 @@ This folder is used to save crypto content that interests me. It also helps me t
 
 ## Table of Contents
 
-* [Classical cryptography]
+* Classical cryptography
 	* [Basics](./README_basics-classical.md) 
-	* [Advanced](./README_advanced-classical.md)
+	* [Advanced](./README_advanced-classical.md) (ZK, MPC, HE, DP, ...)
+	* [Bulding blocks](./README_building-blocks.md) (OT, OLE, SSS, ...)
 
-* [Coding Theory]
+* Coding Theory
 	* [Basics](./README_basics-coding-theory.md) 
 
-
-* [Quantum cryptography]
+* Quantum cryptography
 	* [Basics](./README_basics-quantum.md) 
 	* [Advanced](./README_advanced-quantum.md)
 
-* [Practical tools]
+* Practical tools
 	* [Software Engineering tools](./README_sw-tools.md)
 	* [Hacking tools](./README_hacking.md)
