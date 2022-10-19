@@ -18,6 +18,16 @@
 - [Short introduction to Coding Theory](https://math.uchicago.edu/~may/VIGRE/VIGRE2008/REUPapers/Biswas.pdf), University of Chicago
 - [CMU lectures](https://www.cs.cmu.edu/~venkatg/teaching/codingtheory/). Notes, exercises and material
 
+### Tutorials
+
+- [Youtube] [Algebraic Coding Theory](https://www.youtube.com/playlist?list=PLkvhuSoxwjI_UudECvFYArvG0cLbFlzSr)
+
+## Reed-Solomon codes
+
+### Berlekamp Welch algorithm
+
+- [Youtube] [Berlekamp Welch](https://www.youtube.com/watch?v=0WfAGR-vVwk)
+
 ## Applications
 
 ### Quantum communications
