@@ -2,11 +2,18 @@ This folder is used to save crypto content that interests me. It also helps me t
 
 ## Table of Contents
 
-* [Basic classical cryptogrpahy](./README_basics-classical.md) 
-* [Advanced classical cryptogrpahy](./README_advanced-classical.md)
+* [Classical cryptography]
+	* [Basics](./README_basics-classical.md) 
+	* [Advanced](./README_advanced-classical.md)
 
-* [Basic quantum cryptogrpahy](./README_basics-quantum.md) 
-* [Advanced quantum cryptogrpahy](./README_advanced-quantum.md)
+* [Coding Theory]
+	* [Basics](./README_basics-coding-theory.md) 
 
-* [Software Engineering tools](./README_sw-tools.md)
-* [Hacking tools](./README_hacking.md)
+
+* [Quantum cryptography]
+	* [Basics](./README_basics-quantum.md) 
+	* [Advanced](./README_advanced-quantum.md)
+
+* [Practical tools]
+	* [Software Engineering tools](./README_sw-tools.md)
+	* [Hacking tools](./README_hacking.md)
