@@ -13,6 +13,10 @@
 
 ## Learning material
 
+### MIT lectures
+
+- [Essential Coding Theory (MIT 6.440)](http://courses.csail.mit.edu/6.440/spring08/index.html)
+
 ### Lecture notes
 
 - [Short introduction to Coding Theory](https://math.uchicago.edu/~may/VIGRE/VIGRE2008/REUPapers/Biswas.pdf), University of Chicago

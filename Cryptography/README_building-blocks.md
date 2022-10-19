@@ -13,6 +13,7 @@
 * [Oblivious Linear Evaluation](#oblivious-linear-evaluation)
   	* [Flavours](#flavours)
 * [Leakage Resistant Secret Sharing](#leakage-resistant-secret-sharing)
+* [Threshold Cryptography](#threshold-cryptography)
 
 
 ## Physically unclonable functions
@@ -81,5 +82,5 @@ Silent: after a one-time cheap interaction, two parties can store small seeds, f
 - [The Mother of All Leakages: How to Simulate Noisy Leakages via Bounded Leakage (Almost) for Free](https://eprint.iacr.org/2020/1246.pdf) 
 
 
-
-
+## Threshold Cryptography
+- [YouTube] [Cyber Week 2019 - Academic Perspectives on Cybersecurity Challenges - Threshold Cryptography](https://www.youtube.com/watch?v=StDSvc4Mm50)

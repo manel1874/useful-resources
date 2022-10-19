@@ -7,9 +7,11 @@
 	* [Privacy Enhancing Technologies](#privacy-enhancing-technologies)
 	* [Crypto tools](#crypto-tools)
 	* [Simulation proof](#simulation-proof)
+* [MIT Lectures](#mit-lectures)
 * [Post-quantum](#post-quantum)
 	* [Textbooks](#textbooks)
 	* [Review Articles](#review-articles)
+* [Conferences](#conferences)
 
 
 ## Core Textbooks
@@ -46,6 +48,12 @@ Digital Signatures and MAC, Two party protocols, NIZKs
 - Universal Composability Framework, Canetti
 
 
+## MIT Lectures
+
+- [MIT 6.875 (Cryptography), Spring 2018](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
+- [6.857: Computer and Network Security (Spring 2021)](http://courses.csail.mit.edu/6.857/2021/handouts)
+
+
 ## Post-quantum
 
 ### Textbooks
@@ -56,5 +64,17 @@ Comparison to quantum cryptography, Hash-based Digital Signature Schemes, Code-b
 ### Review Articles
 
 - Post-quantum cryptography ? dealing with the fallout of physics success, Bernstein, Lange, 2017
+
+## Conferences
+
+
+- USENIX Security Symposium
+- ACM Computers, Communications, and Security conference
+- CRYPTO
+- IEEE Symposium on Security and Privacy
+- Network and Distributed System Security Symposium (NDSS)
+- Financial Crypto
+- Workshop on Information Hiding
+- USENIX Workshop on Hot Topics in Security (HotSec)
 
 
