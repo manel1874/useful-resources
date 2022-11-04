@@ -6,6 +6,7 @@
 * [Learning material](#learning-material)
 	* [Lecture notes](#lecture-notes)
 * [Applications](#applications)
+	* [Cryptography](#cryptography)
 	* [Quantum communications](#quantum-communications)
 		* [QKD](#qkd)
 	
@@ -24,7 +25,7 @@
 
 ### Tutorials
 
-- [Youtube] [Algebraic Coding Theory](https://www.youtube.com/playlist?list=PLkvhuSoxwjI_UudECvFYArvG0cLbFlzSr)
+- [YouTube] [Algebraic Coding Theory](https://www.youtube.com/playlist?list=PLkvhuSoxwjI_UudECvFYArvG0cLbFlzSr)
 
 ## Reed-Solomon codes
 
@@ -33,6 +34,12 @@
 - [Youtube] [Berlekamp Welch](https://www.youtube.com/watch?v=0WfAGR-vVwk)
 
 ## Applications
+
+### Cryptography
+
+#### McEliece cryptosystem
+
+- [YouTube] [The McEliece Cryptosystem](https://www.youtube.com/watch?v=fLwMvbfr76g&list=PLkvhuSoxwjI_UudECvFYArvG0cLbFlzSr&index=10)
 
 ### Quantum communications
 
