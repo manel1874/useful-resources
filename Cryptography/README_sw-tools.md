@@ -10,6 +10,12 @@
 
 ## Rust
 
+### Learning material
+
+- [Rust Programming Language main tutorial](https://doc.rust-lang.org/book/title-page.html)
+
+## C/C++
+
 ## PETs
 
 ### Secure multiparty computation

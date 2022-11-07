@@ -30,6 +30,10 @@ A book about Elliptic and Hyperelliptic Cryptosystems. Includes ECDSA
 
 ## Zero knowledge proofs
 
+### Programming resourses
+
+- [A Concise, Opinionated ZK Link Tree by Thor314](https://github.com/thor314/zk-links)
+
 
 ## Secure multiparty computation
 
