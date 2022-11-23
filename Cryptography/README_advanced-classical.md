@@ -34,6 +34,10 @@ A book about Elliptic and Hyperelliptic Cryptosystems. Includes ECDSA
 
 - [A Concise, Opinionated ZK Link Tree by Thor314](https://github.com/thor314/zk-links)
 
+### Omer resources
+
+- [Ingopedia](https://github.com/ingonyama-zk/ingopedia)
+
 
 ## Secure multiparty computation
 
