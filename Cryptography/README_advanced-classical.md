@@ -30,7 +30,9 @@ A book about Elliptic and Hyperelliptic Cryptosystems. Includes ECDSA
 
 ## Zero knowledge proofs
 
-### Programming resourses
+- [ZK Jobs](https://github.com/ZeroKnowledgefm/ZKJobs)
+
+### Programming resources
 
 - [A Concise, Opinionated ZK Link Tree by Thor314](https://github.com/thor314/zk-links)
 

@@ -12,6 +12,7 @@
 	* [Extractors](#extractors)
 * [Oblivious Linear Evaluation](#oblivious-linear-evaluation)
   	* [Flavours](#flavours)
+* [Fuzzy extractors](#fuzzy-extractors)
 * [Leakage Resistant Secret Sharing](#leakage-resistant-secret-sharing)
 * [Threshold Cryptography](#threshold-cryptography)
 
@@ -19,6 +20,8 @@
 ## Physically unclonable functions
 
 - Physically Unclonable Functions: Constructions, Properties and Applications, Roel Maes, 2013, Springer
+- [Physically Unclonable Functions in the Universal Composition Framework](https://eprint.iacr.org/2011/681.pdf), chp 5 OT in the PUF-hybrid model and using fuzzy extractors
+- [Universally Composable Secure Computation with (Malicious) Physically Uncloneable Functions](https://web.cs.ucla.edu/~rafail/PUBLIC/151.pdf)
 
 ## Oblivious Transfer
 
@@ -71,6 +74,8 @@ Silent: after a one-time cheap interaction, two parties can store small seeds, f
 
 - [Silver: Silent VOLE and Oblivious Transfer from Hardness of Decoding Structured LDPC Codes](https://eprint.iacr.org/2021/1150.pdf)
 
+
+## Fuzzy extractors
 
 ## Leakage Resistant Secret Sharing
 - [Leakage-resilience of the Shamir Secret-sharing Scheme against Physical-bit Leakages](https://eprint.iacr.org/2021/186.pdf)
