@@ -29,7 +29,7 @@
 >- Digital Signatures and MAC, Two party protocols, NIZKs
 
 - [Real World Cryptography by David Wong](https://github.com/ZeroKnowledgefm/realworld-cryptography-studygroup)
-- [Solutions to studybook exercises](https://github.com/nickmura/rwc-exercises-lessons
+- [Solutions to studybook exercises](https://github.com/nickmura/rwc-exercises-lessons)
 
 
 ## Text Tutorials
