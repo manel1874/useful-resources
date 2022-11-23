@@ -77,6 +77,9 @@ Silent: after a one-time cheap interaction, two parties can store small seeds, f
 
 ## Fuzzy extractors
 
+- [Fuzzy Extractors: How to Generate Strong Keys from Biometrics and Other Noisy Data](https://www.cs.bu.edu/~reyzin/fuzzy.html)
+Implementation: [here](https://www.cs.bu.edu/~reyzin/code/fuzzy.html)
+
 ## Leakage Resistant Secret Sharing
 - [Leakage-resilience of the Shamir Secret-sharing Scheme against Physical-bit Leakages](https://eprint.iacr.org/2021/186.pdf)
 - [Leakage Resilient Secret Sharing and Applications](https://eprint.iacr.org/2018/1154.pdf)
