@@ -39,3 +39,7 @@
 ### SSL Certificate
 
 - [How to install an SSL Certificate](https://sucuri.net/guides/how-to-install-ssl-certificate/#:~:text=In%20the%20Websites%20and%20Domains,certificate%20you%20added%20to%20Plesk.)
+
+## General tools
+
+- [Stanford Code the Change](https://codethechange.stanford.edu/guides/index.html)
