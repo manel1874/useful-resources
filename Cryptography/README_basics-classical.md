@@ -31,6 +31,8 @@
 - [Real World Cryptography by David Wong](https://github.com/ZeroKnowledgefm/realworld-cryptography-studygroup)
 - [Solutions to studybook exercises](https://github.com/nickmura/rwc-exercises-lessons)
 
+- [Practical cryptography for developers book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book)
+
 
 ## Text Tutorials
 
