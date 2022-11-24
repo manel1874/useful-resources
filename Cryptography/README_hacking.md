@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Beginners](#beginners)
+* [Cryptography](#cryptography)
 * [Pwn](#pwn)
 * [Blockchain](#blockchain)
 
@@ -20,6 +21,12 @@
 - [SEEDLabs](https://seedsecuritylabs.org/)
 - [Network security](https://fenix.tecnico.ulisboa.pt/disciplinas/SIRS7/2020-2021/1-semestre/labs)
 
+## Cryptography
+
+### Cryptopals
+
+- [webiste](https://cryptopals.com)
+- Solutions [1](https://github.com/ricpacca/cryptopals), [2](https://cedricvanrompay.gitlab.io/cryptopals/)
 
 ## Pwn
 
