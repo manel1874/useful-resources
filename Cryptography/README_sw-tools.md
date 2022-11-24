@@ -23,3 +23,10 @@
 - [Awesome MPC frameworks](https://github.com/rdragos/awesome-mpc/blob/master/readme.md)
 
 ### Differential Privacy
+
+## Cryptography
+
+### C++ libraries
+
+- Crypto++ [github](https://github.com/weidai11/cryptopp) and [website](https://www.cryptopp.com/)
+- GMP library [website](https://gmplib.org/)
