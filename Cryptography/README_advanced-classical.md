@@ -31,14 +31,24 @@ A book about Elliptic and Hyperelliptic Cryptosystems. Includes ECDSA
 ## Zero knowledge proofs
 
 - [ZK Jobs](https://github.com/ZeroKnowledgefm/ZKJobs)
+- [Ingopedia zk](https://github.com/ingonyama-zk/ingopedia)
+
+### Introductory papers
+
+- [Why and How zk-SNARK Works: Definitive Explanation](https://arxiv.org/pdf/1906.07221.pdf)
+
+### zkSNARKs
+
+- [Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS](https://eprint.iacr.org/2019/1047.pdf)
+- [Marlin \& me](https://github.com/ingonyama-zk/papers/blob/main/Marlin_and_me.pdf)
 
 ### Programming resources
 
 - [A Concise, Opinionated ZK Link Tree by Thor314](https://github.com/thor314/zk-links)
 
-### Omer resources
+### Hardware optimization
 
-- [Ingopedia](https://github.com/ingonyama-zk/ingopedia)
+- [PipeMSM: Hardware Acceleration for Multi-Scalar Multiplication](https://eprint.iacr.org/2022/999.pdf)
 
 
 ## Secure multiparty computation
