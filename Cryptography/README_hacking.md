@@ -28,6 +28,10 @@
 - [webiste](https://cryptopals.com)
 - Solutions [1](https://github.com/ricpacca/cryptopals), [2](https://cedricvanrompay.gitlab.io/cryptopals/)
 
+### Zero-knowledge
+
+- [ZK Hack](https://zkhack.dev/events/#puzzles)
+
 ## Pwn
 
 - [Over the wire](https://overthewire.org/wargames/) challanges
