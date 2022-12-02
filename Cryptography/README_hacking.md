@@ -31,6 +31,7 @@
 ### Zero-knowledge
 
 - [ZK Hack](https://zkhack.dev/events/#puzzles)
+- [ZK Hack III](https://zkhack.dev/zkhackIII/#puzzles)
 
 ## Pwn
 
