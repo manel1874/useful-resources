@@ -17,3 +17,8 @@ This folder is used to save crypto content that interests me. It also helps me t
 * Practical tools
 	* [Software Engineering tools](./README_sw-tools.md)
 	* [Hacking tools](./README_hacking.md)
+
+
+## Crypto blogs
+
+- [Aragon ZK Research](https://research.aragon.org/about/)

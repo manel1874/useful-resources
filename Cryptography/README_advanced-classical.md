@@ -131,6 +131,13 @@ Interesting element: An explicit quantum attack against a classically-secure ZK 
 
 - Collision of moving objects
   -  Privacy-preserving collision detection of moving objects
+  
+#### ECDSA 
+
+Attaks: 
+
+- [On the security of ECDSA with additive key derivation and presignatures](https://www.shoup.net/papers/2021-1330.pdf)
+- [rwc2022 : Threshold ECDSA with additive key derivation and presignatures : an attack, and a solution](https://medium.com/coinmonks/rwc2022-threshold-ecdsa-with-additive-key-derivation-and-presignatures-an-attack-and-a-958b95801b95)
 
 ### Blockchain hybrid model
 
