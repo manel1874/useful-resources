@@ -14,6 +14,7 @@
   	* [Flavours](#flavours)
 * [Fuzzy extractors](#fuzzy-extractors)
 * [Leakage Resistant Secret Sharing](#leakage-resistant-secret-sharing)
+* [Accumulators](#accumulators)
 * [Threshold Cryptography](#threshold-cryptography)
 
 
@@ -89,6 +90,9 @@ Implementation: [here](https://www.cs.bu.edu/~reyzin/code/fuzzy.html)
 - [Continuously Non-Malleable Secret Sharing for General Access Structures](https://eprint.iacr.org/2019/602.pdf)
 - [The Mother of All Leakages: How to Simulate Noisy Leakages via Bounded Leakage (Almost) for Free](https://eprint.iacr.org/2020/1246.pdf) 
 
+## Accumulators
+
+- [An Overview of Cryptographic Accumulators](https://arxiv.org/pdf/2103.04330.pdf)
 
 ## Threshold Cryptography
 - [YouTube] [Cyber Week 2019 - Academic Perspectives on Cybersecurity Challenges - Threshold Cryptography](https://www.youtube.com/watch?v=StDSvc4Mm50)
