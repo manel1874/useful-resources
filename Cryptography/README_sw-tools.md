@@ -28,6 +28,10 @@
 
 - [Awesome MPC frameworks](https://github.com/rdragos/awesome-mpc/blob/master/readme.md)
 
+#### SHA256 implementation
+
+- [Efficient implementation for Boolean circuits](https://dl.acm.org/doi/pdf/10.1145/3133956.3134060)
+
 ### Differential Privacy
 
 ## Cryptography
