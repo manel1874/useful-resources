@@ -50,6 +50,8 @@ A book about Elliptic and Hyperelliptic Cryptosystems. Includes ECDSA
 >- Meaning of zk: one can compute in poly-time, from x \in L, without a prover, the same (or almost the same) probability distribution that the verifier would see with the prover.
 >- Examples. Perfect zero-knowledge proof systems: all languages in BPP have; QR and QNR languages (not in BPP); graph isomorphism [GMW]. Statistically zero-knowledge proof systems: graph nonisomorphism [GMW]. Computationally zero-knowledge proofs (if secure encryption exists): all languages in NP. Zero-knowledge proofs: all languages in IP [BGGHKMR]
 
+- [Non-interactive zero-knowledge and its applications](https://dl.acm.org/doi/10.1145/62212.62222)
+
 ### zkSNARKs
 
 - [Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS](https://eprint.iacr.org/2019/1047.pdf)
