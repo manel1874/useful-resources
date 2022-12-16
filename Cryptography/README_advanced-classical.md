@@ -18,6 +18,8 @@
 * [Homomorphic encryption](#homomorphic-encryption)
 * [Differential Privacy](#differential-privacy)
 
+* [Network Security](#network-security)
+
 --------
 
 ## Elliptic Curves
@@ -42,6 +44,11 @@ A book about Elliptic and Hyperelliptic Cryptosystems. Includes ECDSA
 - [Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS](https://eprint.iacr.org/2019/1047.pdf)
 - [Marlin \& me](https://github.com/ingonyama-zk/papers/blob/main/Marlin_and_me.pdf)
 
+### CP-ZKP
+Commit-and-Prove Zero-Knowledge Proof Systems
+
+- [Proposal: Commit-and-Prove Zero-Knowledge Proof Systems and Extensions](https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-commit.pdf)
+
 ### Programming resources
 
 - [A Concise, Opinionated ZK Link Tree by Thor314](https://github.com/thor314/zk-links)
@@ -49,6 +56,10 @@ A book about Elliptic and Hyperelliptic Cryptosystems. Includes ECDSA
 ### Hardware optimization
 
 - [PipeMSM: Hardware Acceleration for Multi-Scalar Multiplication](https://eprint.iacr.org/2022/999.pdf)
+
+### Applications
+
+- [Blind Certificate Authorities](https://eprint.iacr.org/2018/1022.pdf)
 
 
 ## Secure multiparty computation
@@ -170,5 +181,13 @@ Implementations: [Nillion](https://apply.workable.com/nillion/)
 
 
 ## Differential Privacy
+
+## Network Security
+
+### CA
+
+#### Blind CA
+
+- [Blind Certificate Authorities](https://eprint.iacr.org/2018/1022.pdf)
 
 

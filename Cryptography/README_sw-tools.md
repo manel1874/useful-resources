@@ -20,6 +20,10 @@
 
 ## PETs
 
+### Zero-knowledge
+
+- [Learn about ZoKrates and implementations](https://learn.scrypt.io/)
+
 ### Secure multiparty computation
 
 - [Awesome MPC frameworks](https://github.com/rdragos/awesome-mpc/blob/master/readme.md)
