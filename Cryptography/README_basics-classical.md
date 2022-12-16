@@ -7,7 +7,7 @@
 	* [Privacy Enhancing Technologies](#privacy-enhancing-technologies)
 	* [Crypto tools](#crypto-tools)
 	* [Simulation proof](#simulation-proof)
-* [MIT Lectures](#mit-lectures)
+* [Lectures](#lectures)
 * [Post-quantum](#post-quantum)
 	* [Textbooks](#textbooks)
 	* [Review Articles](#review-articles)
@@ -53,10 +53,20 @@
 - Universal Composability Framework, Canetti
 
 
-## MIT Lectures
+## Lectures
+
+### Cryptography
 
 - [6.875: Cryptography (Spring 2018)](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
+
+### Network security
+
 - [6.857: Computer and Network Security (Spring 2021)](http://courses.csail.mit.edu/6.857/2021/handouts)
+
+### Blockchain
+
+- [ECE/CS 598AM: Cryptocurrency Security](https://soc1024.ece.illinois.edu/teaching/ece598am/fall2016/)
+- [CS 251: Cryptocurrencies and Blockchain Technologies](https://cs251.stanford.edu/)
 
 
 ## Post-quantum
