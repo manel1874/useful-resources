@@ -39,6 +39,17 @@ A book about Elliptic and Hyperelliptic Cryptosystems. Includes ECDSA
 
 - [Why and How zk-SNARK Works: Definitive Explanation](https://arxiv.org/pdf/1906.07221.pdf)
 
+### Original papers
+
+- [The knowledge complexity of interactive proof system, original, GMR85](https://dl.acm.org/doi/pdf/10.1145/22145.22178)
+
+- [The knowledge complexity of interactive proof systems, extension, GMR89](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/The_Knowledge_Complexity_Of_Interactive_Proof_Systems.pdf):
+>- Introduce the notion of interactive proof systems.
+>- Ans: How much knowledge is transmitted to the verifier in an interactive proof system for L?
+>- Def: An interactive proof system for L is zero-knowledge if for each x \in L, the prover tells the verifier essentially nothing, other than that x \in L.
+>- Meaning of zk: one can compute in poly-time, from x \in L, without a prover, the same (or almost the same) probability distribution that the verifier would see with the prover.
+>- Examples. Perfect zero-knowledge proof systems: all languages in BPP have; QR and QNR languages (not in BPP); graph isomorphism [GMW]. Statistically zero-knowledge proof systems: graph nonisomorphism [GMW]. Computationally zero-knowledge proofs (if secure encryption exists): all languages in NP. Zero-knowledge proofs: all languages in IP [BGGHKMR]
+
 ### zkSNARKs
 
 - [Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS](https://eprint.iacr.org/2019/1047.pdf)
