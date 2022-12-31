@@ -33,6 +33,11 @@
 
 - [Practical cryptography for developers book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book)
 
+## Computational cryptography
+
+- [Computational cryptography](https://www.joppebos.com/lenstra/)
+- [Topics in Computational Number Theory Inspired by Peter L. Montgomery](https://www.joppebos.com/montgomery/)
+
 
 ## Text Tutorials
 
@@ -58,6 +63,9 @@
 ### Cryptography
 
 - [6.875: Cryptography (Spring 2018)](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
+- [CS255: Introduction to cryptography](https://crypto.stanford.edu/~dabo/courses/cs255_winter14/)
+
+- [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf), Goldwasser and Bellare, 2008
 
 ### Network security
 

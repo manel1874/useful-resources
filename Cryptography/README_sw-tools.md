@@ -41,6 +41,7 @@
 - Crypto++ [github](https://github.com/weidai11/cryptopp) and [website](https://www.cryptopp.com/)
 - GMP library [website](https://gmplib.org/)
 - GMP [tutorial](https://github.com/jumpmanmv/gmp)
+- NTL [book explanation](https://www.shoup.net/papers/akl-chapter.pdf)
 
 ## Network security
 
