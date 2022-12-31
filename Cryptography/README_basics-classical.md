@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Core Textbooks](#core-textbooks)
+* [Computational cryptography](#computational-cryptography)
 * [Text Tutorials](#text-tutorials)
 	* [Privacy Enhancing Technologies](#privacy-enhancing-technologies)
 	* [Crypto tools](#crypto-tools)
