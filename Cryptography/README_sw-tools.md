@@ -8,6 +8,7 @@
 	* [Secure multiparty computation](#secure-multiparty-computation)
 * [Cryptography](#cryptography)
 * [Network security](#network-security)
+* [Number theory](#number-theory)
 
 
 ## Rust
@@ -52,3 +53,11 @@
 ## General tools
 
 - [Stanford Code the Change](https://codethechange.stanford.edu/guides/index.html)
+
+## Number theory
+
+- [PARI](http://pari.math.u-bordeaux.fr/): computer algebra system designed for fast computations in number theory in C.
+
+## Sage
+
+- [Sage](https://www.sagemath.org/)
