@@ -16,6 +16,7 @@
 * [Leakage Resistant Secret Sharing](#leakage-resistant-secret-sharing)
 * [Accumulators](#accumulators)
 * [Threshold Cryptography](#threshold-cryptography)
+*[Information Theory](#information-theory)
 
 
 ## Physically unclonable functions
@@ -96,3 +97,26 @@ Implementation: [here](https://www.cs.bu.edu/~reyzin/code/fuzzy.html)
 
 ## Threshold Cryptography
 - [YouTube] [Cyber Week 2019 - Academic Perspectives on Cybersecurity Challenges - Threshold Cryptography](https://www.youtube.com/watch?v=StDSvc4Mm50)
+
+## Information Theory
+
+### Important inequalities
+
+
+#### Pinsker's inequality
+
+- [Wiki](https://en.wikipedia.org/wiki/Pinsker%27s_inequality)
+
+#### Fano inequality
+
+
+### Divergence
+
+- [Kullback-Leiber wiki](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
+
+### Entropy
+
+- [Rényi wiki](https://en.wikipedia.org/wiki/R%C3%A9nyi_entropy)
+- Relation between entropy and divergence: [Renyi Divergence and Kullback-Leibler Divergence](https://arxiv.org/pdf/1206.2459.pdf); [What Is Randomness? The Interplay between Alpha Entropies, Total Variation and Guessing](https://www.mdpi.com/2673-9984/5/1/30)
+
+
