@@ -16,7 +16,7 @@
 * [Leakage Resistant Secret Sharing](#leakage-resistant-secret-sharing)
 * [Accumulators](#accumulators)
 * [Threshold Cryptography](#threshold-cryptography)
-*[Information Theory](#information-theory)
+* [Information Theory](#information-theory)
 
 
 ## Physically unclonable functions
@@ -101,7 +101,6 @@ Implementation: [here](https://www.cs.bu.edu/~reyzin/code/fuzzy.html)
 ## Information Theory
 
 ### Important inequalities
-
 
 #### Pinsker's inequality
 
