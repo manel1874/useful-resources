@@ -9,6 +9,8 @@
 * [Cryptography](#cryptography)
 * [Network security](#network-security)
 * [Number theory](#number-theory)
+* [Sage]
+* [Go]
 
 
 ## Rust
@@ -61,3 +63,7 @@
 ## Sage
 
 - [Sage](https://www.sagemath.org/)
+
+## Go
+
+- [Go for cryptography](https://asecuritysite.com/golang/)
