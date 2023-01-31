@@ -34,6 +34,7 @@ A book about Elliptic and Hyperelliptic Cryptosystems. Includes ECDSA
 
 - [ZK Jobs](https://github.com/ZeroKnowledgefm/ZKJobs)
 - [Ingopedia zk](https://github.com/ingonyama-zk/ingopedia)
+- [LinkTree zk](https://linktr.ee/zeroknowledge)
 
 ### Introductory papers
 
