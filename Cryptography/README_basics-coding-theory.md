@@ -35,6 +35,11 @@
 
 ## Applications
 
+### Exact repair problem
+
+- [Erasure code](https://en.wikipedia.org/wiki/Erasure_code)
+- [Repairing Reed-Solomon Codes](https://arxiv.org/pdf/1509.04764.pdf)
+
 ### Cryptography
 
 #### McEliece cryptosystem
