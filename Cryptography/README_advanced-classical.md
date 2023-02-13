@@ -67,6 +67,10 @@ Commit-and-Prove Zero-Knowledge Proof Systems
 
 - [A Concise, Opinionated ZK Link Tree by Thor314](https://github.com/thor314/zk-links)
 
+#### Tutorials:
+
+- [A beginner's intro to coding zero-knowledge proofs](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56?utm_source=tldrnewsletter). [Github repo](https://github.com/spalladino/zkp-tests)
+
 ### Hardware optimization
 
 - [PipeMSM: Hardware Acceleration for Multi-Scalar Multiplication](https://eprint.iacr.org/2022/999.pdf)

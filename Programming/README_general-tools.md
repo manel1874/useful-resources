@@ -4,6 +4,7 @@
 
 * [Rust](#rust)
 * [C/C++](#c/c++)
+* [Documentation](#documentation)
 
 
 
@@ -20,3 +21,9 @@
 #### Static
 
 - [Tutorial with gcc]()https://www.youtube.com/watch?v=t5TfYRRHG04
+
+## Documentation
+
+### AI helper
+
+- [docsGPT](https://github.com/arc53/docsgpt)
