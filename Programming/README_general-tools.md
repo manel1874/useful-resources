@@ -5,6 +5,7 @@
 * [Rust](#rust)
 * [C/C++](#c/c++)
 * [Documentation](#documentation)
+* [LLMs](#llms)
 
 
 
@@ -27,3 +28,7 @@
 ### AI helper
 
 - [docsGPT](https://github.com/arc53/docsgpt)
+
+## LLMs
+
+- [Prompt engineering guide](https://github.com/dair-ai/Prompt-Engineering-Guide?utm_source=tldrai)
