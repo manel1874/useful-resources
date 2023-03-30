@@ -65,6 +65,7 @@
 
 - [6.875: Cryptography (Spring 2018)](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
 - [CS255: Introduction to cryptography](https://crypto.stanford.edu/~dabo/courses/cs255_winter14/)
+- [COS 533: Advanced Cryptography (Fall 2017), Princeton](https://mzhandry.github.io/courses/2017-Fall-COS533/)
 
 - [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf), Goldwasser and Bellare, 2008
 
