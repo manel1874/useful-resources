@@ -4,6 +4,7 @@
 
 
 * [Physically unclonable functions](#physically-unclonable-functions)
+* [Commitment](#commitment)
 * [Oblivious Transfer](#oblivious-transfer)
   	* [Flavours](#flavours)
 	* [OT protocols](#ot-protocols)
@@ -24,6 +25,19 @@
 - Physically Unclonable Functions: Constructions, Properties and Applications, Roel Maes, 2013, Springer
 - [Physically Unclonable Functions in the Universal Composition Framework](https://eprint.iacr.org/2011/681.pdf), chp 5 OT in the PUF-hybrid model and using fuzzy extractors
 - [Universally Composable Secure Computation with (Malicious) Physically Uncloneable Functions](https://web.cs.ucla.edu/~rafail/PUBLIC/151.pdf)
+
+## Commitment
+
+### Hash-based (ROM)
+
+- [Topic 14: Random Oracle Model, Hashing Applications](https://www.cs.purdue.edu/homes/jblocki/courses/555_Spring17/slides/Lecture14.pdf): In practice, do not use hash functions based on Merkle-Damgård trees. 
+- [Lec 3: Commitments and Random Oracle](https://crypto.stanford.edu/cs355/20sp/lec3.pdf) <- very good
+- [Security proof](https://people.eecs.berkeley.edu/~daw/teaching/cs276-s06/mtsol.ps)
+
+#### Video
+
+- [Lecture 10.2: Cryptographic Commitments](https://www.youtube.com/watch?v=IkNZWJFcfcU): hash-based and pedersen.
+
 
 ## Oblivious Transfer
 
@@ -115,7 +129,7 @@ Implementation: [here](https://www.cs.bu.edu/~reyzin/code/fuzzy.html)
 
 ### Entropy
 
-- [Rényi wiki](https://en.wikipedia.org/wiki/R%C3%A9nyi_entropy)
+-[Rényi wiki](https://en.wikipedia.org/wiki/R%C3%A9nyi_entropy)
 - Relation between entropy and divergence: [Renyi Divergence and Kullback-Leibler Divergence](https://arxiv.org/pdf/1206.2459.pdf); [What Is Randomness? The Interplay between Alpha Entropies, Total Variation and Guessing](https://www.mdpi.com/2673-9984/5/1/30)
 
 
