@@ -26,6 +26,7 @@
 ### Zero-knowledge
 
 - [Learn about ZoKrates and implementations](https://learn.scrypt.io/)
+- [Lurk: A Turing-complete programming language for Zero Knowledge Proofs.](https://lurk-lang.org/)
 
 ### Secure multiparty computation
 
