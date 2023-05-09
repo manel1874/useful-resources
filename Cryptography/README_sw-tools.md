@@ -18,6 +18,7 @@
 ### Learning material
 
 - [Rust Programming Language main tutorial](https://doc.rust-lang.org/book/title-page.html)
+- [Rust and Cryptography - Bill](https://asecuritysite.com/rust)
 
 ## C/C++
 
