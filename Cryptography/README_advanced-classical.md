@@ -103,6 +103,13 @@ Commit-and-Prove Zero-Knowledge Proof Systems
 
 Evaluates AES circuit with malicious security in 37 ms with an online time of just 1 ms
 
+### Garbled circuits
+
+- [Lecture 2: Advanced Techniques and Optimizations for Garbled Circuits](https://www.youtube.com/watch?v=D6r6o2KQ3Oc)
+
+**Point-and-permute** [BeaverMicaliRogaway90]: for each wire we do $A_b || r\oplus b$
+**Garbled Row Reduction** (GRR3) [NaorPinkasSumner99]: make one of the ciphertexts lines all 0's. Reduces from 4 to 3.
+**Free XOR** [KolesnikovSchneider08]: (In summary) every wire has the same offset + False label is defined as the XOR of two other labels. (More detail) every wire has an offset and instead of having $A, B$ labels for each wire, we have $A, A\oplus \Delta$, where $\Delta$ is global to all gates.
 
 ### Post-quantum security
 
