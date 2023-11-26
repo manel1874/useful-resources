@@ -69,6 +69,7 @@
 - [CS355: Topics in Cryptography, Stanford](https://crypto.stanford.edu/cs355/20sp/)
 
 - [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf), Goldwasser and Bellare, 2008
+- [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/), Dan Boneh and Victor Shoup, 2023
 
 ### Network security
 
