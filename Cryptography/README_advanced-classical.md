@@ -205,6 +205,7 @@ Implementations: [Nillion](https://apply.workable.com/nillion/)
 
 ### Applications
 - [Secure Logistic Regression Based on Homomorphic Encryption](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5930176/)
+- [Fully Homomorphic SIMD Operations](https://eprint.iacr.org/2011/133.pdf)
 
 ### MPC and HE
 - [Improved Multiplication Triple Generation over Rings via RLWE-based AHE](https://eprint.iacr.org/2019/577.pdf):
