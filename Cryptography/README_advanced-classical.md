@@ -211,6 +211,16 @@ Implementations: [Nillion](https://apply.workable.com/nillion/)
 - [Improved Multiplication Triple Generation over Rings via RLWE-based AHE](https://eprint.iacr.org/2019/577.pdf):
   - Homomorphic to additive shares protocol
 
+### TFHE
+
+- [TFHE-rs: A (Pratical) Handbook](https://github.com/zama-ai/tfhe-rs-handbook/blob/main/tfhe-rs-handbook.pdf):
+  - Definition of LWE problem
+  - Definition of LWE, GLWE and RLWE encryption and decryption
+  - Description of private and public-key encryption
+
+- [Guide to Fully Homomorphic Encryption over the [Discretized] Torus](https://eprint.iacr.org/2021/1402.pdf)
+
+- [TFHE Deep Dive - Part I - Ciphertext types](https://www.zama.ai/post/tfhe-deep-dive-part-1)
 
 ## Differential Privacy
 
