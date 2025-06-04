@@ -11,6 +11,7 @@
 * [Number theory](#number-theory)
 * [Sage]
 * [Go]
+* [Hardware](#hardware)
 
 
 ## Rust
@@ -69,3 +70,7 @@
 ## Go
 
 - [Go for cryptography](https://asecuritysite.com/golang/)
+
+## Hardware
+
+- [FPGA for cryptography course](https://github.com/adelapie/FPGA-CRYPTO-COURSE/blob/master/lectures/iterative4.pdf)
