@@ -41,6 +41,7 @@ A book about Elliptic and Hyperelliptic Cryptosystems. Includes ECDSA
 ### Introductory papers
 
 - [Why and How zk-SNARK Works: Definitive Explanation](https://arxiv.org/pdf/1906.07221.pdf)
+- [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 
 ### Original papers
 
